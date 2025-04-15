@@ -1,4 +1,4 @@
-# 🛍️ Meesho Clone – E-commerce Frontend using React.js
+# 🛍️ Meesho Clone – E-commerce Frontend using React.js  --WORKING--
 
 A responsive and modern **Meesho Clone** built with **React.js** and **Tailwind CSS**, showcasing an e-commerce UI similar to the Meesho shopping app. It includes a functional homepage, category section, sliders, and product listings – all designed to provide a real-world shopping experience frontend.
 
